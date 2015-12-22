@@ -28,3 +28,6 @@ node_modules
 
 # Debug log from npm
 npm-debug.log
+
+# Resources Bower Components
+resources/bower_components
