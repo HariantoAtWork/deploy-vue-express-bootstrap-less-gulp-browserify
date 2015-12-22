@@ -22,5 +22,9 @@
     "transform": [
       "browserify-shim"
     ]
+  },
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "browserify-shim": "^3.8.11"
   }
 }
